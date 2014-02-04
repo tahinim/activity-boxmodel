@@ -25,7 +25,7 @@ html {
 }
 
 img {
-	width: 80%;
+	width: 100%;
     display: block;
 }
 
@@ -42,9 +42,9 @@ body {
 
 .logo {
     height: 4.5rem;
-    width:auto;
+    width: auto;
     margin: .5rem 5%;
-    float:right;
+    float: right;
     
 }
 
